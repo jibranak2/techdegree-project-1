@@ -25,7 +25,7 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: black;
+  background: whitesmoke;
   min-height: 30px;
   padding: 10px;
   position: fixed;
@@ -43,7 +43,7 @@ a:hover {
 .nav .name {
     display: block;
     margin-right: auto;
-    color: white;
+    color: black;
 }
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/FreeToronto.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -79,14 +79,14 @@ header .profile-image:hover {
 .tag {
   background-color: #efefef;
   color: black;
-  padding: 10px;
+  padding: 5px;
   border-radius: 5px;
   display: table;
-  margin: 10px auto;
+  margin: 25px auto;
 } 
 .location {
-  background-color: #222;
-  color: yellow;
+  background-color:white;
+  color: black;
 }
 .card {
   margin: 30px;
@@ -99,7 +99,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: grey;
 }
 
 ul.skills {
